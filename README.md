@@ -1,4 +1,4 @@
-# master_the_typescript
+# Master the TypeScript
 This repo covers all TypeScript methods in general
 ---
 ## Introduction to TypeScript:
