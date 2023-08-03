@@ -8,7 +8,7 @@ This repo covers all TypeScript methods in general
 - TypeScript vs JavaScript.
 - Benefits of using TypeScript.
 
-### Basic Types:
+### Basic Types:- 
 
 - Boolean, Number, String, Array, Tuple.
 - Enum, Any, Void, Null, Undefined.
@@ -22,83 +22,80 @@ This repo covers all TypeScript methods in general
 
 ### Functions:
 
-Type annotations for function parameters and return types.
-Optional and Default Parameters.
-Function overloading.
+- Type annotations for function parameters and return types.
+- Optional and Default Parameters.
+- Function overloading.
 
 ### Classes and Interfaces:
 
-Creating classes and objects.
-Constructors, Properties, and Methods.
-Inheritance and Access Modifiers.
-Abstract classes and Interfaces.
+- Creating classes and objects.
+- Constructors, Properties, and Methods.
+- Inheritance and Access Modifiers.
+- Abstract classes and Interfaces.
 
 ### Generics:
 
-Generic functions and classes.
-Working with generic constraints.
-Generic types in interfaces.
+- Generic functions and classes.
+- Working with generic constraints.
+- Generic types in interfaces.
 
 ### Modules:
 
-Organizing code with modules.
-Exporting and Importing modules.
-Default exports and Named exports.
+- Organizing code with modules.
+- Exporting and Importing modules.
+- Default exports and Named exports.
 
 ### Decorators:
 
-Understanding decorators in TypeScript.
-Creating custom decorators.
-Applying decorators to classes, properties, and methods.
+- Understanding decorators in TypeScript.
+- Creating custom decorators.
+- Applying decorators to classes, properties, and methods.
 
 ### Enums:
 
-Enumerated types in TypeScript.
-Numeric and String-based enums.
-Type Definitions and Declaration Files:
+- Enumerated types in TypeScript.
+- Numeric and String-based enums.
+- Type Definitions and Declaration Files:
 
-Working with external libraries and modules.
-Creating declaration files (.d.ts).
+- Working with external libraries and modules.
+- Creating declaration files (.d.ts).
 
 ### Type Inference:
 
-How TypeScript infers types automatically.
-Best practices for explicit type annotations.
+- How TypeScript infers types automatically.
+- Best practices for explicit type annotations.
 
 ### Conditional Types:
 
-Using conditional types for advanced type manipulation.
-Namespace and Declaration Merging:
+- Using conditional types for advanced type manipulation.
+- Namespace and Declaration Merging:
 
-Organizing code using namespaces.
-Merging declarations from multiple sources.
+- Organizing code using namespaces.
+- Merging declarations from multiple sources.
 
 ### Type Guards:
 
-Writing custom type guards for runtime type checks.
+- Writing custom type guards for runtime type checks.
 
 ### Type Utilities:
 
-Built-in utility types like Partial, Pick, Omit, etc.
+- Built-in utility types like Partial, Pick, Omit, etc.
 
 ### tsconfig.json:
 
-Understanding the TypeScript configuration file.
-Compiler options and project settings.
+- Understanding the TypeScript configuration file.
+- Compiler options and project settings.
 
 ### Error Handling and Strict Mode:
 
-Enabling strict mode for better type checking.
-Handling common type-related errors.
+- Enabling strict mode for better type checking.
+- Handling common type-related errors.
 
 ### Integration with Frameworks:
 
-Using TypeScript with Angular, React, Node.js, etc.
+- Using TypeScript with Angular, React, Node.js, etc.
  
 ### Advanced TypeScript Features:
 
-Discriminated Unions, Mapped Types, Indexed Access Types, etc.
+- Discriminated Unions, Mapped Types, Indexed Access Types, etc.
 
-### Migrating from JavaScript to TypeScript:
-
-Step-by-step guide for converting existing projects.
