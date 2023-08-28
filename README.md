@@ -8,7 +8,7 @@ This repo covers all TypeScript methods in general
 - TypeScript vs JavaScript.
 - Benefits of using TypeScript.
 
-### Basic Types:- 
+### [Basic Types](https://github.com/TheAbhiPatel/master_the_typescript/blob/main/basic-types.md) :
 
 - Boolean, Number, String, Array, Tuple.
 - Enum, Any, Void, Null, Undefined.
