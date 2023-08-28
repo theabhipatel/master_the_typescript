@@ -2,7 +2,7 @@
 This repo covers all TypeScript methods in general
 
 ---
-### Introduction to TypeScript:
+### [Introduction to TypeScript](https://github.com/TheAbhiPatel/master_the_typescript/blob/main/introduction-to-typeScript.md) :
 
 - What is TypeScript?
 - TypeScript vs JavaScript.
